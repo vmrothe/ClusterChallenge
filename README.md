@@ -9,7 +9,7 @@
 ## Heatmaps
 For comparison, you can see heatmaps for hierarchical, k-means, fuzzy c-means clustering and for the self-organizing maps method. 
 
-Feel free to contact me if you have questions or other solutions.
+Feel free to contact me if you have any questions or other solutions. I am grateful for any kind of input. 
 
 Thanks for trying and good luck! :four_leaf_clover:
 
